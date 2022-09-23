@@ -1,0 +1,9 @@
+CREATE A TEMPLATE  - to display images
+    1. create a component to display images 
+    2. create a redux setup to display images
+        2.1. creating a store
+        2.2. creating action creators and reducers
+        2.3. conencting our react app with redux based store
+        2.4. dispatching the actions + conencting the events emitted
+        2.5. rendering the updated data from store
+        
