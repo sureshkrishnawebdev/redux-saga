@@ -1,5 +1,10 @@
 CREATE A TEMPLATE  - to display images
+
     1. create a component to display images 
+        1.1. creating a dummy list
+        1.2. connecting our app with unsplash api
+        1.3. rendering the unsplash images using api request
+
     2. create a redux setup to display images
         2.1. creating a store
         2.2. creating action creators and reducers
